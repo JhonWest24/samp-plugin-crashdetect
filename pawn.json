@@ -1,5 +1,5 @@
 {
-    "user": "Bloodhacker",
+    "user": "JhonWest24",
     "repo": "samp-plugin-crashdetect",
     "include_path": "include",
     "resources": [
@@ -19,6 +19,6 @@
         }
     ],
     "runtime": {
-        "plugins": ["Bloodhacker/samp-plugin-crashdetect"]
+        "plugins": ["JhonWest24/samp-plugin-crashdetect"]
     }
 }
